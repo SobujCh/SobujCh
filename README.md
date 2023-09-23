@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SobujCh
-- 👀 I’m interested in WordPress, PHP, JavaScript, CSS & HTML
+- 👀 I’m interested in WordPress, Drupal, PHP, JavaScript, CSS & HTML
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anyone
-- 📫 Reach me through mail@sobuj.com
+- 📫 Reach me through sobujos@gmail.com
 
 <!---
 SobujCh/SobujCh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
